@@ -1,6 +1,3 @@
-function myFunction(){
- 
-
 let Button = document.querySelector('button');
 
 function send() {
@@ -37,5 +34,3 @@ function send() {
 };
 
 Button.addEventListener('click', send);
-	
-	}
