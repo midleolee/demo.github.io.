@@ -1,3 +1,8 @@
+window.onload = function() {
+  document.getElementById('try').innerHTML = 'trytry'
+}
+
+
 let Button = document.querySelector('button');
 
 function send() {
