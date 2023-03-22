@@ -1,7 +1,5 @@
-window.onload = function() {
-  document.getElementById('try').innerHTML = 'trytry'
-}
-
+function myFunction(){
+ 
 
 let Button = document.querySelector('button');
 
@@ -39,3 +37,5 @@ function send() {
 };
 
 Button.addEventListener('click', send);
+	
+	}
